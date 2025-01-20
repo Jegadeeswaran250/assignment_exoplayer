@@ -66,7 +66,7 @@ implementation("androidx.media3:media3-exoplayer-hls:1.5.1")
 ```
 The apk location-[docs/apk/Demo_App.apk]
 The document for implementation approach-[docs/techDocs/Implementation Approach.txt]
-The document for Test Case-[docs/techDocs/Testcase.txt]
+The document for Test Case-[docs/techDocs/Testcase.odt]
 ```
 
 
