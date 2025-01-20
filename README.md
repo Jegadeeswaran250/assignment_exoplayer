@@ -63,10 +63,11 @@ implementation("androidx.media3:media3-exoplayer-hls:1.5.1")
 
 
 ### Document Directories
-*The *apk* stored location-[app/src/main/assets/apks/Demo_App.apk]
-*The document for *implementation approach* stored location-[app/src/main/assets/docs/implementation Approach.txt]
-*The document for *Test Case* stored location-[app/src/main/assets/docs/Testcase.odt]
-
+```
+The apk location-[docs/apk/Demo_App.apk]
+The document for implementation approach-[docs/techDocs/Implementation Approach.txt]
+The document for Test Case-[docs/techDocs/Testcase.txt]
+```
 
 
 
