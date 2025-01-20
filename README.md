@@ -9,6 +9,7 @@ Formally called Simple player application this is the Android application that t
 5. [Dependencies](#dependencies)
 6. [Authors](#authors)
 7. [Future Improvements](#future improvements)
+8. [Document Directories](#document directories)
 
 
 ## Getting Started
@@ -59,6 +60,13 @@ implementation("androidx.media3:media3-exoplayer-hls:1.5.1")
 *Thumbnail images can be added for main playback  when the content get seek using the progress bar.
 *can do the implementation for DRM Configuration.
 *can use ImaAdConfiguration for server-side ad insertion.
+
+
+### Document Directories
+*The *apk* stored location-[app/src/main/assets/apks/Demo_App.apk]
+*The document for *implementation approach* stored location-[app/src/main/assets/docs/implementation Approach.txt]
+*The document for *Test Case* stored location-[app/src/main/assets/docs/Testcase.odt]
+
 
 
 
