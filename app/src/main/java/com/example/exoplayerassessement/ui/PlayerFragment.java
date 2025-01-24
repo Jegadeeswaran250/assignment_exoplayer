@@ -48,9 +48,9 @@ public class PlayerFragment extends Fragment {
     private long startTime;
     protected long currentPosition;
     private TextView tv_ads;
-    public  String mainContent_dash_url="https://demo.unified-streaming.com/k8s/live/scte35.isml/.mpd";
-    public  String mainContent_hls_url="https://demo.unified-streaming.com/k8s/features/stable/video/tears-of-steel/tears-of-steel.ism/.m3u8";
-    public  String adContent_mp4_url="https://dpndczlul8yjf.cloudfront.net/creatives/assets/ba2f2ea7-7b9f-49ce-ad22-06db8f0390b0/6df1b26aedf6680a8ebe4af74daa7643.mp4";
+    public  String mainContent_dash_url="dash_url_string";
+    public  String mainContent_hls_url="hls_url_string";
+    public  String adContent_mp4_url="ad_URL_string";
     String className = "Demo_App";
     private Handler handlerforevents = new Handler();
     private Runnable runnable;
